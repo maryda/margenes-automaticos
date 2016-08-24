@@ -1,0 +1,47 @@
+body{
+	margin: 20;
+}
+
+
+.contenedor1{
+
+	width: 200px;
+	height: 200px;
+	border: 10px solid yellow;
+	display: inline-block;
+	position: absolute;
+
+}
+
+
+
+
+.contenedor2{
+
+	width: 200px;
+	height: 200px;
+	border: 10px solid yellow;
+	display: inline-block;
+
+	position:absolute;
+	bottom: 200px;
+	left: 400px;
+
+}
+
+
+
+p{
+
+	text-align:center;
+	font-weight:bold;
+
+	
+
+
+}
+
+
+
+
+
